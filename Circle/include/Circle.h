@@ -3,7 +3,7 @@
 
 #include "Point.h"
 
-class Circle : public Point
+class Circle : private Point
 {
     public:
         Circle ( Point center, int r) : Point ( center ), R (r) {};
