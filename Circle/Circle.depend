@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1431004006 source:c:\users\pc\documents\github\circle\circle\main.cpp
+	<iostream>
+	"Point.h"
+	"Circle.h"
+
+1431003555 c:\users\pc\documents\github\circle\circle\include\point.h
+
+1431003563 source:c:\users\pc\documents\github\circle\circle\src\point.cpp
+	"Point.h"
+
+1431003948 c:\users\pc\documents\github\circle\circle\include\circle.h
+	"Point.h"
+
+1431003877 source:c:\users\pc\documents\github\circle\circle\src\circle.cpp
+	"Circle.h"
+
